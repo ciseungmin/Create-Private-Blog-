@@ -4,6 +4,7 @@
 	--main-sideMenu : #5aedc5;
 }
 body{background-color: var(--main-bg-color);}
+.leftsidemenubar:hover{background-color: red;}
 .wrapper{width: 100%;height: 1000px;}
 	
 	.innerwrapper{width: 100%;height: 100%; margin: auto;}
